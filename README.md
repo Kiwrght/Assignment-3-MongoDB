@@ -1,7 +1,7 @@
 # Assignment 3: MongoDB 
 
 ## Overveiw
-This assignment focuses on creating a **MongoDB Atlas** account, installing **MongoDB Community**, and using **MongoDB Compass** to run Queries. Overall, the goal of this assingment is to understand how to manage databases, execute queries, and document results.
+This assignment focuses on creating a **MongoDB Atlas** account, installing **MongoDB Community Edition**, and using **MongoDB Compass** to run Queries. Overall, the goal of this assingment is to understand how to manage databases, execute queries, and document results.
 
 ## Assignment
 
